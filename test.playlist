@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="ClassLibrary2.Selenium2.selectloginlanguage" /><Add Test="ClassLibrary2.Selenium2.a_NavigatetoAcademyB2Curl" /><Add Test="ClassLibrary2.Selenium2.b2_EnterUsernameandpassword" /><Add Test="ClassLibrary2.Selenium2.g_alltypedropdown" /><Add Test="ClassLibrary2.Selenium2.b1_selectloginlanguage" /></Playlist>
